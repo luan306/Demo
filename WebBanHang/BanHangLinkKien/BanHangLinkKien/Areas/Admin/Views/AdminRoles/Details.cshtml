@@ -1,0 +1,41 @@
+﻿@model BanHangLinkKien.Models.Role
+
+@{
+    ViewData["Title"] = "Thông tin quyền truy cập";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h4 class="fw-bold py-3 mb-4">
+    <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="text-muted fw-light">Home / </a>
+    <a asp-area="Admin" asp-controller="AdminRoles" asp-action="Index" class="text-muted fw-light">Danh sách quyền truy cập /</a>
+
+    <span class="text-muted fw-light">Thông tin quyền truy cập</span>
+</h4>
+<div class="card">
+    
+    <h5 class="card-header">Thông tin quyền truy cập</h5>
+    <div class="table-responsive text-nowrap">
+        <table class="table">
+            <thead>
+                <tr>
+                    <td>ID:</td>
+                    <td>@Model.RoleId</td>
+
+                </tr>
+                <tr>
+                    <th>Tên quyền truy cập:</th>
+                    <th>@Model.RoleName</th>
+
+                </tr>
+                <tr>
+                    <th>Mô tả:</th>
+                    <th>@Model.Descriptiton</th>
+
+                </tr>
+            </thead>
+
+
+        </table>
+    </div>
+</div>

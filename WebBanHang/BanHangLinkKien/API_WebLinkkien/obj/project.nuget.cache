@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "xf2o9hzPDmEDbZs8G8ob0NrA1MN534nhat0xnARYzlMX0oScY6bmz66d1WvphgYE/Zf50+hkl8LFKzoEf0Ei9w==",
+  "success": false,
+  "projectFilePath": "E:\\FILE_DOCUMENT\\BACK-END\\WebBanHang\\New\\WebBanHang\\BanHangLinkKien\\API_WebLinkkien\\API_WebLinkkien.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BanHangLinkKien is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project BanHangLinkKien supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "BanHangLinkKien",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

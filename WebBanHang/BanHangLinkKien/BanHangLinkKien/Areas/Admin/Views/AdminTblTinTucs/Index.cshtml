@@ -1,0 +1,93 @@
+﻿@using PagedList.Core.Mvc
+@model PagedList.Core.IPagedList<BanHangLinkKien.Models.TblTinTuc>
+
+@{
+    ViewData["Title"] = "Danh sách tin tức";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card">
+    
+
+    <div class="card-body" style="position:absolute; right:0; ">
+
+        <div class="demo-inline-spacing">
+            <a class="btn btn-primary" asp-controller="AdminTblTinTucs" asp-action="Create">Add Tin tức</a>
+        </div>
+    </div>
+    <h5 class="card-header">Danh sách tin tức : page @ViewBag.CurrentPage</h5>
+    <div class="table-responsive text-nowrap">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tiêu đề</th>
+                    <th>Trạng Thái</th>
+                    <th>#</th>
+                </tr>
+            </thead>
+            <tbody class="table-border-bottom-0">
+                @if (Model != null)
+                {
+                    foreach (var item in Model)
+                    {
+                        <tr class="table-default">
+                            <td><i class="fab fa-sketch fa-lg text-warning me-3"></i> @item.PostId</td>
+                            <td>
+                                <p>@item.Title</p>
+
+                            </td>
+
+                            <td>
+                                @if (item.Published == true)
+                                {
+                                <td><span class="badge bg-label-primary me-1">Public</span></td>
+                                }
+                                else
+                                {
+                                <td><span class="badge bg-label-primary me-1">Non-Public</span></td>
+                                }
+                            </td>
+
+                            <td>
+                                <div class="">
+                                    <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                        <i class="bx bx-dots-vertical-rounded"></i>
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminTblTinTucs" asp-action="Edit" asp-route-id="@item.PostId"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminTblTinTucs" asp-action="Details" asp-route-id="@item.PostId"><i class="bx bx-trash me-1"></i> Details</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminTblTinTucs" asp-action="Delete" asp-route-id="@item.PostId"><i class="bx bx-trash me-1"></i> Delete</a>
+                                    </div>
+                                </div>
+                            </td>
+
+                            @* <td><span class="badge bg-label-primary me-1">Active</span></td>
+                    <td>
+                    <div class="dropdown">
+                    <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                    <i class="bx bx-dots-vertical-rounded"></i>
+                    </button>
+                    <div class="dropdown-menu">
+                    <a class="dropdown-item" href="javascript:void(0);"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                    <a class="dropdown-item" href="javascript:void(0);"><i class="bx bx-trash me-1"></i> Delete</a>
+                    </div>
+                    </div>
+                    </td>*@
+                        </tr>
+                    }
+                }
+
+
+            </tbody>
+            <!-- Basic Pagination -->
+            <!--/ Basic Pagination -->
+        </table>
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <pager class="page-item" list="@Model" asp-area="Admin" asp-controller="AdminCustomers" asp-action="Index" />
+            </ul>
+        </nav>
+
+    </div>
+</div>

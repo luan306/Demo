@@ -1,0 +1,136 @@
+﻿@model IEnumerable<BanHangLinkKien.Models.Account>
+
+@{
+    ViewData["Title"] = "Danh sách tài khoản quản trị";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="card">
+   
+    <div class="card-body">
+        <!-- Basic Breadcrumb -->
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a asp-area="Admin" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a asp-area="Admin" asp-controller="AdminAccounts" asp-action="Index">Danh sách tài khoản quản trị</a>
+                </li>
+               
+            </ol>
+        </nav>
+        <!-- Basic Breadcrumb -->
+        
+    </div>
+</div>
+
+@*<h4 class="fw-bold py-3 mb-4">
+    <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="text-muted fw-light">Home / </a>
+    <span class="text-muted fw-light">Danh sách tài khoản quản trị</span>
+</h4>*@
+                <div class="card">
+    <div class="demo-inline-spacing">
+        <div class="card mb-4">
+           
+                <div class="row gx-3 gy-2 align-items-center">
+                    <div class="col-md-3">
+                        <select class="form-select color-dropdown" id="idrole" name="idrole" asp-items="ViewBag.QuyenTruyCap">
+                            <option value="0" disabled selected>Chọn quyền truy cập</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select class="form-select placement-dropdown" id="idstatus" name="idstatus" asp-items="ViewBag.lsTrangThai">
+                            <option value="0" disabled selected>Chọn trạng thái</option>
+                        </select>
+                    </div>
+                </div>
+         
+        </div>
+    </div>
+                <h5 class="card-header">Danh sách tài khoản quản trị</h5>
+                <div class="table-responsive text-nowrap">
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <th>ID</th>
+                        <th>Họ Và Tên</th>
+                        <th>Email</th>
+                        <th>Điện thoại</th>
+                        <th>Lần đăng nhập cuối</th>
+                        <th>Quyền truy cập</th>
+                        <th>Trạng thái</th>
+
+                      </tr>
+                    </thead>
+                    <tbody class="table-border-bottom-0">
+                        @if(Model != null)
+                        {
+                            foreach(var item in Model)
+                            {
+                                <tr class="table-default">
+                                    <td><i class="fab fa-sketch fa-lg text-warning me-3"></i> <strong>@item.AccountId</strong></td>
+                                    <td>@item.FullName</td>
+                                    <td>@item.Email</td>
+                                    <td>@item.Phone</td>
+                                    <td>@item.LastLogin</td>
+                                    @*<td>@item.Role.Descriptiton</td>*@
+                                      
+    
+                                    <td>
+                                        <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
+                                            <li data-bs-toggle="tooltip"
+                                                data-popup="tooltip-custom"
+                                                data-bs-placement="top"
+                                                class="avatar avatar-xs pull-up"
+                                                title="Lilian Fuller">
+
+                                                <img src="~/adminassets/img/avatars/5.png" alt="Avatar" class="rounded-circle" />
+                                            </li>
+                                            <li data-bs-toggle="tooltip"
+                                                data-popup="tooltip-custom"
+                                                data-bs-placement="top"
+                                                class="avatar avatar-xs pull-up"
+                                                title="Sophia Wilkerson">
+                                                <img src="~/adminassets/img/avatars/6.png" alt="Avatar" class="rounded-circle" />
+                                            </li>
+                                            <li data-bs-toggle="tooltip"
+                                                data-popup="tooltip-custom"
+                                                data-bs-placement="top"
+                                                class="avatar avatar-xs pull-up"
+                                                title="Christina Parker">
+                                                <img src="~/adminassets/img/avatars/7.png" alt="Avatar" class="rounded-circle" />
+                                            </li>
+                                        </ul>
+                                    </td>
+
+                                    <td>
+                                        if (item.Active)
+                                        {
+                                            <span class="badge bg-label-primary me-1">Active</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-label-primary me-1">Block</span>
+                                        }
+                                    </td>
+                                    <td>
+                                        <div class="dropdown">
+                                            <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                                <i class="bx bx-dots-vertical-rounded"></i>
+                                            </button>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Edit" asp-route-id="@item.AccountId"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Details" asp-route-id="@item.AccountId"><i class="bx bx-trash me-1"></i> Details</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Delete" asp-route-id="@item.AccountId"><i class="bx bx-trash me-1"></i> Delete</a>
+                                    </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                     
+
+                    </tbody>
+                  </table>
+                </div>
+              </div>

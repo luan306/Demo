@@ -1,0 +1,168 @@
+﻿@using PagedList.Core.Mvc
+@model PagedList.Core.IPagedList<BanHangLinkKien.Models.Product>
+
+@{
+    int CurrentPage = ViewBag.CurrentPage;
+    ViewData["Title"] = "Danh sách sản phẩm" + CurrentPage;
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card">
+
+    <div class="card-body">
+        <!-- Basic Breadcrumb -->
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a asp-area="Admin" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a asp-area="Admin" asp-controller="AdminProducts" asp-action="Index">Danh sách sản phẩm</a>
+                </li>
+
+            </ol>
+        </nav>
+        <!-- Basic Breadcrumb -->
+
+    </div>
+</div>
+
+<div class="card">
+      <div class="demo-inline-spacing">
+        <div class="card mb-4">
+           
+                <div class="row gx-3 gy-2 align-items-center">
+                    <div class="col-md-3">
+                    <select class="form-select color-dropdown" id="txtCatID" name="txtCatID" asp-items="ViewBag.DanhMuc">
+                            <option selected>Chọn danh mục</option>
+                        <option value="all">Chọn tất cả</option>
+                        </select>
+                    </div>
+                    
+                </div>
+         
+        </div>
+    </div>
+    <h5 class="card-header">Danh sách sản phẩm</h5>
+    <div class="card-body" style="position:absolute; right:0; ">
+        
+        <div class="demo-inline-spacing">
+            <a class="btn btn-primary" asp-controller="AdminProducts" asp-action="Create">Add Product</a>   
+        </div>
+    </div>
+    <div class="table-responsive text-nowrap">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tên sản phẩm</th>
+                    <th>Danh mục</th>
+                    <th>Giá</th>
+                    <th>Tồn kho</th>
+                    <th>Trạng thái</th>
+
+                </tr>
+            </thead>
+            <tbody class="table-border-bottom-0">
+                @if( Model != null)
+                {
+                    foreach(var item in Model)
+                    {
+                        <tr class="table-default">
+                            <td><i class="fab fa-sketch fa-lg text-warning me-3"></i> <strong>@item.ProductId</strong></td>
+                            <td>@item.ProductName</td>
+                            <td>@item.Cat.CatName</td>
+                            <td>@item.Price.Value.ToString("#,##0") VNĐ</td>
+                            <td>@item.UnitslnStock</td>
+
+
+                            @if(item.UnitslnStock.Value > 0)
+                            {
+                                <td><span class="badge bg-label-primary me-1">In Stock</span></td>
+
+                            }
+                            else
+                            {
+                                <td><span class="badge bg-label-primary me-1">Out Stock</span></td>
+                            }
+
+                            
+                            <td>
+                                <div class="dropdown">
+                                    <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                        <i class="bx bx-dots-vertical-rounded"></i>
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminProducts" asp-action="Edit" asp-route-id="@item.ProductId"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminProducts" asp-action="Details" asp-route-id="@item.ProductId"><i class="bx bx-trash me-1"></i> Details</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminProducts" asp-action="Delete" asp-route-id="@item.ProductId"><i class="bx bx-trash me-1"></i> Delete</a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                }
+               
+               
+            </tbody>
+        </table>
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <pager class="page-item" list="@Model" asp-area="Admin" asp-controller="AdminProducts" asp-route-catID="@ViewBag.CurrentCateID" asp-action="Index" />
+            </ul>
+        </nav>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            jQuery("#txtCatID").change(function () {
+                var catID = jQuery(this).children(":selected").attr("value");
+                catID = parseFloat(catID);
+                $('#txtCatID option')
+                .removeAttr('selected');
+                $("#txtCatID > [value=" + catID + "]").attr("selected","true");
+
+                //var idactive = $('#txtActive option:selected').attr('id');
+                //if(idactive === undefined) idactive= GetUrlParameter("active");
+                $.ajax({
+                    url: '/Admin/AdminProducts/Filtter',
+                    datatype: "json",
+                    type: "GET",
+                    data: {
+                        //Active: idactive,
+                        CatID:catID
+                    },
+                    async: true,
+                    success: function (results){
+                        if(results.status == "success")
+                        {
+                            window.location.href = results.redirectUrl;
+                        }
+                    },
+                    error:function(xhr){
+                        alert('error');
+                    }
+                });
+        });
+
+
+        //$("#keyword").keyup(function(){
+        //    var strkeyword = $('#keyword').val();
+        //    $.ajax({
+        //        url:'/Admin/Search/FindProduct/',
+        //        datatype: "json",
+        //        type:"POST",
+        //        data: {keyword:strkeyword},
+        //        async:true,
+        //        success:function (results);
+        //    },
+        //    error:function(xhr){
+        //        alert('error');
+        //    }
+        //});
+        //});
+                });
+    </script>
+}
