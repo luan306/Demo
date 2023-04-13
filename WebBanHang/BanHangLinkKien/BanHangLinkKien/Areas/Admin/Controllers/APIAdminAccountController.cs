@@ -11,10 +11,11 @@ namespace BanHangLinkKien.Areas.Admin.Controllers
     {
         ShoplinkkienContext db = new ShoplinkkienContext();
         [HttpGet]
-        public IEnumerable<Account> GetAccounts()
+        public IEnumerable<ApiAccount> GetAccounts()
         {
             var acount  = (from p in db.Accounts select new ApiAccount
                 {
+                    
                     Email= p.Email,
                     Password= p.Password
 

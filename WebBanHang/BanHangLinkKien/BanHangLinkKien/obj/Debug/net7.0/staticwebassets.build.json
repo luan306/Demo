@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "m7JWDnGexGjwQfyokI09ZE+2NmyFbwvzJh1m9504XF4=",
+  "Hash": "JKmaD0yCaLMuXVwezrK+jnpaNrohK2j/65gssODJVSo=",
   "Source": "BanHangLinkKien",
   "BasePath": "_content/BanHangLinkKien",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\FILE_DOCUMENT\\BACK-END\\WebBanHang\\New\\WebBanHang\\BanHangLinkKien\\API_WebLinkkien\\API_WebLinkkien.csproj",
+      "Version": 2,
+      "Source": "API_WebLinkkien",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "BanHangLinkKien\\wwwroot",

@@ -67,16 +67,17 @@
                         {
                             foreach(var item in Model)
                             {
-                                <tr class="table-default">
+                      
+                        @*<tr class="table-default">
                                     <td><i class="fab fa-sketch fa-lg text-warning me-3"></i> <strong>@item.AccountId</strong></td>
                                     <td>@item.FullName</td>
                                     <td>@item.Email</td>
                                     <td>@item.Phone</td>
-                                    <td>@item.LastLogin</td>
-                                    @*<td>@item.Role.Descriptiton</td>*@
-                                      
-    
-                                    <td>
+                                    <td>@item.LastLogin</td>*@
+                        @*<td>@item.Role.Descriptiton</td>*@
+
+
+                        @*<td>
                                         <ul class="list-unstyled users-list m-0 avatar-group d-flex align-items-center">
                                             <li data-bs-toggle="tooltip"
                                                 data-popup="tooltip-custom"
@@ -125,7 +126,23 @@
                                     </div>
                                         </div>
                                     </td>
-                                </tr>
+                                </tr>*@
+                    
+                        <tr class="table-default">
+                           
+                            <td>
+                                <div class="dropdown">
+                                    <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                        <i class="bx bx-dots-vertical-rounded"></i>
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Edit" asp-route-id="@item.AccountId"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Details" asp-route-id="@item.AccountId"><i class="bx bx-trash me-1"></i> Details</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Delete" asp-route-id="@item.AccountId"><i class="bx bx-trash me-1"></i> Delete</a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
                             }
                         }
                      
@@ -134,3 +151,26 @@
                   </table>
                 </div>
               </div>
+
+<script>
+    function showaccount(getUrl){
+        var str='';
+        $.ajax({
+            type: 'GET',
+            url:getUrl,
+            dataType: 'json',
+                success: function(data) {
+                $.each(data,function(key,val){
+                    str+='<p>' + val.account+'</p>'
+                    console.log(key)
+                })
+                Error:function(xhr){
+                    alert(xhr.responseText)
+                }
+               
+            }
+        })
+    }
+    
+
+</script>

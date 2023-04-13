@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BanHangLinkKien.Models;
 using PagedList.Core;
+using Newtonsoft.Json;
+using API_WebLinkkien.Models;
+using NuGet.Protocol.Core.Types;
 
 namespace BanHangLinkKien.Areas.Admin.Controllers
 {
@@ -14,10 +17,12 @@ namespace BanHangLinkKien.Areas.Admin.Controllers
     public class AdminCustomersController : Controller
     {
         private readonly ShoplinkkienContext _context;
+        private readonly IConfiguration _configuration;
 
-        public AdminCustomersController(ShoplinkkienContext context)
+        public AdminCustomersController(ShoplinkkienContext context, IConfiguration configuration)
         {
             _context = context;
+            _configuration = configuration;
         }
 
         // GET: Admin/AdminCustomers
@@ -27,17 +32,32 @@ namespace BanHangLinkKien.Areas.Admin.Controllers
         //                  View(await _context.Customers.ToListAsync()) :
         //                  Problem("Entity set 'ShoplinkkienContext.Customers'  is null.");
         //}
-        public IActionResult Index(int? page)
+        //public IActionResult Index(int? page)
+        //{
+        //    var pageNumber = page == null || page <= 0 ? 1 : page.Value;
+        //    var pageSize = 20;
+        //    var lsCustomers = _context.Customers.AsNoTracking().Include(x=>x.Location).OrderByDescending(x => x.CreateDate);
+        //    PagedList<Customer> models = new PagedList<Customer>(lsCustomers, pageNumber, pageSize);
+        //    ViewBag.CurrentPage = pageNumber ;
+        //    return View(models);
+        //}
+        //[HttpGet]
+        //public IEnumerable<Accounts> Get() => configuration.Accounts;
+        public async Task<IActionResult> Index()
         {
-            var pageNumber = page == null || page <= 0 ? 1 : page.Value;
-            var pageSize = 20;
-            var lsCustomers = _context.Customers.AsNoTracking().Include(x=>x.Location).OrderByDescending(x => x.CreateDate);
-            PagedList<Customer> models = new PagedList<Customer>(lsCustomers, pageNumber, pageSize);
-            ViewBag.CurrentPage = pageNumber ;
-            return View(models);
+            List<Accounts> reservationList = new List<Accounts>();
+            using (var httpClient = new HttpClient())
+            {
+                using (var response = await httpClient.GetAsync("https://localhost:7243/api/APIAdminAccount"))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    reservationList = JsonConvert.DeserializeObject<List<Accounts>>(apiResponse);
+                }
+            }
+            return View(reservationList);
         }
-        // GET: Admin/AdminCustomers/Details/5
-        public async Task<IActionResult> Details(int? id)
+            // GET: Admin/AdminCustomers/Details/5
+            public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Customers == null)
             {

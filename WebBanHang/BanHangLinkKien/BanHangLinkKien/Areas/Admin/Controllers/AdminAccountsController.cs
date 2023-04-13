@@ -6,6 +6,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BanHangLinkKien.Models;
+using BanHangLinkKien.System.Users;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
+using System.DirectoryServices.AccountManagement;
 
 namespace BanHangLinkKien.Areas.Admin.Controllers
 {
@@ -13,6 +17,7 @@ namespace BanHangLinkKien.Areas.Admin.Controllers
     public class AdminAccountsController : Controller
     {
         private readonly ShoplinkkienContext _context;
+        
 
         public AdminAccountsController(ShoplinkkienContext context)
         {
@@ -170,5 +175,8 @@ namespace BanHangLinkKien.Areas.Admin.Controllers
         {
           return (_context.Accounts?.Any(e => e.AccountId == id)).GetValueOrDefault();
         }
+       
+
+
     }
 }
