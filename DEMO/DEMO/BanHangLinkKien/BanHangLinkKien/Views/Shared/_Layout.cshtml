@@ -1,0 +1,136 @@
+﻿@*<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BanHangLinkKien</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/~/asset/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/~/asset/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BanHangLinkKien.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">BanHangLinkKien</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Admin" asp-controller="Home" asp-action="Index">Go to admin</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - BanHangLinkKien - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.~/asset/js"></script>
+    <script src="~/lib/bootstrap/dist/~/asset/js/bootstrap.bundle.min.~/asset/js"></script>
+    <script src="~/~/asset/js/site.~/asset/js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+*@
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Home || Truemart Responsive Html5 Ecommerce Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="~/asset/img/favicon.ico">
+    <!-- Fontawesome css -->
+    <link rel="stylesheet" href="~/asset/css/font-awesome.min.css">
+    <!-- Ionicons css -->
+    <link rel="stylesheet" href="~/asset/css/ionicons.min.css">
+    <!-- linearicons css -->
+    <link rel="stylesheet" href="~/asset/css/linearicons.css">
+    <!-- Nice select css -->
+    <link rel="stylesheet" href="~/asset/css/nice-select.css">
+    <!-- Jquery fancybox css -->
+    <link rel="stylesheet" href="~/asset/css/jquery.fancybox.css">
+    <!-- Jquery ui price slider css -->
+    <link rel="stylesheet" href="~/asset/css/jquery-ui.min.css">
+    <!-- Meanmenu css -->
+    <link rel="stylesheet" href="~/asset/css/meanmenu.min.css">
+    <!-- Nivo slider css -->
+    <link rel="stylesheet" href="~/asset/css/nivo-slider.css">
+    <!-- Owl carousel css -->
+    <link rel="stylesheet" href="~/asset/css/owl.carousel.min.css">
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" href="~/asset/css/bootstrap.min.css">
+    <!-- Custom css -->
+    <link rel="stylesheet" href="~/asset/css/default.css">
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/asset/style.css">
+    <!-- Responsive css -->
+    <link rel="stylesheet" href="~/asset/css/responsive.css">
+
+    <!-- Modernizer ~/asset/js -->
+    <script src="~/asset/js/vendor/modernizr-3.5.0.min.js"></script>
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+
+    <!-- Main Wrapper Start Here -->
+    <div class="wrapper">
+        @await Html.PartialAsync("_HeaderPartialView.cshtml")
+        @RenderBody()
+        @await Html.PartialAsync("_FooterPartialView.cshtml")
+    </div>
+    <!-- Main Wrapper End Here -->
+
+    <!-- jquery 3.2.1 -->
+    <script src="~/asset/js/vendor/jquery-3.2.1.min.js"></script>
+    <!-- Countdown ~/asset/js -->
+    <script src="~/asset/js/jquery.countdown.min.js"></script>
+    <!-- Mobile menu ~/asset/js -->
+    <script src="~/asset/js/jquery.meanmenu.min.js"></script>
+    <!-- ScrollUp ~/asset/js -->
+    <script src="~/asset/js/jquery.scrollUp.js"></script>
+    <!-- Nivo slider ~/asset/js -->
+    <script src="~/asset/js/jquery.nivo.slider.js"></script>
+    <!-- Fancybox ~/asset/js -->
+    <script src="~/asset/js/jquery.fancybox.min.js"></script>
+    <!-- Jquery nice select ~/asset/js -->
+    <script src="~/asset/js/jquery.nice-select.min.js"></script>
+    <!-- Jquery ui price slider ~/asset/js -->
+    <script src="~/asset/js/jquery-ui.min.js"></script>
+    <!-- Owl carousel -->
+    <script src="~/asset/js/owl.carousel.min.js"></script>
+    <!-- Bootstrap popper ~/asset/js -->
+    <script src="~/asset/js/popper.min.js"></script>
+    <!-- Bootstrap ~/asset/js -->
+    <script src="~/asset/js/bootstrap.min.js"></script>
+    <!-- Plugin ~/asset/js -->
+    <script src="~/asset/js/plugins.js"></script>
+    <!-- Main activaion ~/asset/js -->
+    <script src="~/asset/js/main.js"></script>
+    @await Component.InvokeAsync("Notyf")
+    @await RenderSectionAsync("Scripts",required:false)
+</body>
+
+</html>

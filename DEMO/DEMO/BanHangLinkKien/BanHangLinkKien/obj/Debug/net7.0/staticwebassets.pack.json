@@ -1,0 +1,1761 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BanHangLinkKien.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BanHangLinkKien.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\config.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\Adminassets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\Adminassets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\default.css",
+      "PackagePath": "staticwebassets\\asset\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\asset\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\asset\\css\\linearicons.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\asset\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\nivo-slider.css",
+      "PackagePath": "staticwebassets\\asset\\css\\nivo-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\asset\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner-fnd.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner-fnd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner-kds.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner-kds.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner-sidebar.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner-sidebar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner-wmn.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner-wmn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner3-1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner3-2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner3-3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner3-4.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner3-5.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner3-6.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner3-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner3-7.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner3-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\banner3-8.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\banner3-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\electorince.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\electorince.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\h1-band1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\h1-band1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\h1-band2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\h1-band2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\h1-banner.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\h1-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\h1-banner3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\h1-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\banner\\pop-banner.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\banner\\pop-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\blog\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\brand\\1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\brand\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\brand\\2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\brand\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\brand\\3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\brand\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\brand\\4.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\brand\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\asset\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\header\\1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\header\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\header\\2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\header\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\icon\\bg-l-sale.png",
+      "PackagePath": "staticwebassets\\asset\\img\\icon\\bg-l-sale.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\icon\\social-img1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\icon\\social-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\icon\\social-img2.png",
+      "PackagePath": "staticwebassets\\asset\\img\\icon\\social-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\asset\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\asset\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\payment\\1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\payment\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\10.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\11.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\12.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\13.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\14.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\15.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\16.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\17.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\18.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\19.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\20.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\21.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\22.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\23.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\24.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\25.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\26.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\27.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\28.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\29.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\30.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\31.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\32.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\33.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\34.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\35.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\36.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\37.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\38.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\39.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\40.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\41.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\42.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\43.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\8.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\products\\9.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\products\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\10.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\11.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\3.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\4.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\5.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\6.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\7.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\8.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\9.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\icon-collapse.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\icon-collapse.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\icon-expand.png",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\icon-expand.png"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\sub-img1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\sub-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\sub-img2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\sub-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\img\\vertical-menu\\sub-img3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\vertical-menu\\sub-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\asset\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\jquery.nivo.slider.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.nivo.slider.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\jquery.scrollUp.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.scrollUp.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\main.js",
+      "PackagePath": "staticwebassets\\asset\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\vendor\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\vendor\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\asset\\style.css",
+      "PackagePath": "staticwebassets\\asset\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\html\\cards-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\index.html",
+      "PackagePath": "staticwebassets\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\html\\layouts-container.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\html\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\html\\ui-badges.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\html\\ui-footer.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\html\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\html\\ui-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\html\\ui-typography.html"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\tasks\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\LUAN-PC\\Downloads\\DEMO\\DEMO\\BanHangLinkKien\\BanHangLinkKien\\wwwroot\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\tasks\\prod.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BanHangLinkKien.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BanHangLinkKien.props",
+      "PackagePath": "build\\BanHangLinkKien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BanHangLinkKien.props",
+      "PackagePath": "buildMultiTargeting\\BanHangLinkKien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BanHangLinkKien.props",
+      "PackagePath": "buildTransitive\\BanHangLinkKien.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
